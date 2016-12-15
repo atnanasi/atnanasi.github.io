@@ -7,7 +7,7 @@ title: Blog
 subtitle: ゴミ(長文・ポエム)置き場
 description: つらつら書いてます
 author: Atnanasi
-language: en
+language: ja
 timezone: Asia/Tokyo
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: chan
+theme: material
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

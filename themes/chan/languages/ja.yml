@@ -1,0 +1,14 @@
+more: 続きを読む
+category: カテゴリー
+tag: タグ
+archive: アーカイブ
+prev: 前
+next: 次
+cc:
+  hint: This work is licensed under a Creative Commons %s 4.0 International License.
+  by: Attribution
+  by-sa: Attribution-ShareAlike
+  by-nd: Attribution-NoDerivatives
+  by-nc: Attribution-NonCommercial
+  by-nc-sa: Attribution-NonCommercial-ShareAlike
+  by-nc-nd: Attribution-NonCommercial-NoDerivatives

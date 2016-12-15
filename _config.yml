@@ -69,5 +69,5 @@ theme: chan
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:atnanasi/atnanasi.github.io.git
+  repo: git@github.com:atnanasi/blog.git
   branch: gh-pages

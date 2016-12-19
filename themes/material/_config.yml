@@ -26,7 +26,7 @@ scheme: Paradox
 
 # UI & UX: slogan, color, effect
 uiux:
-    slogan: "Hi, nice to meet you"
+    slogan: "進捗を出せる体作り"
     theme_color: "#0097A7"
     theme_sub_color: "#00838F"
     hyperlink_color: "#00838F"
@@ -76,7 +76,7 @@ img:
     random_thumbnail: "/img/random/"
 
 # Custom Fonts
-fonts: Roboto, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif
+fonts: "メイリオ", "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -84,14 +84,9 @@ fonts: Roboto, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "
 
 # SNS Menu
 sns:
-    email: youremail@email.com
-    twitter: "https://twitter.com/twitter"
-    facebook: "https://www.facebook.com/facebook"
-    googleplus: "https://www.google.com/"
-    weibo: 
-    instagram: 
-    tumblr: 
-    github: 
+    email: ys2000pro@email.com
+    twitter: "https://twitter.com/atnanasi"
+    github: "https://github.com/atnanasi"
 
 # Sidebar User Dropdown
 dropdown: 

@@ -68,7 +68,7 @@ background:
 # Images Settings
 img:
     logo: "/img/logo.png"
-    avatar: "/img/avatar.png"
+    avatar: "https://cdn.atnanasi.tk/icons/icon.png"
     daily_pic: "/img/daily_pic.png"
     sidebar_header: "/img/sidebar_header.png"
     footerico: "/img/footer/footer_ico-"
@@ -76,7 +76,8 @@ img:
     random_thumbnail: "/img/random/"
 
 # Custom Fonts
-fonts: "メイリオ", "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif
+fonts: "メイリオ"
+#, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -84,7 +85,7 @@ fonts: "メイリオ", "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino San
 
 # SNS Menu
 sns:
-    email: ys2000pro@email.com
+    email: ys2000pro@gmail.com
     twitter: "https://twitter.com/atnanasi"
     github: "https://github.com/atnanasi"
 
@@ -97,8 +98,6 @@ dropdown:
 # Pages Menu
 pages:
     #about: "/about"
-    
-
 
 # ---------------------------------------------------------------
 # Integrated Services

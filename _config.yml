@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: chan
+theme: ingenuousn
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -71,3 +71,10 @@ deploy:
   type: git
   repo: git@github.com:atnanasi/blog.git
   branch: gh-pages
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:

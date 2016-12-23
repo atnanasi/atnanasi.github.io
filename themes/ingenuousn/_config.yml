@@ -26,12 +26,12 @@ widgets:
 # Miscellaneous
 google_analytics:
 favicon: /favicon.png
-twitter:
+twitter: atnanasi
 google_plus:
 fb_admins:
 fb_app_id:
 
-aboutme:
+aboutme: 
 about:
   author: true
   twitter: true

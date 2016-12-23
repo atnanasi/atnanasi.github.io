@@ -1,0 +1,41 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: right
+
+# Search form
+search: true
+
+# Widgets
+widgets:
+- about
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
+
+aboutme:
+about:
+  author: true
+  twitter: true
+  aboutme: true
+  description: true
+
+common_keywords:

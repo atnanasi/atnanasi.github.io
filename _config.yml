@@ -78,3 +78,9 @@ feed:
   limit: 20
   hub:
   content:
+
+githubEmojis:
+  enable: true
+  className: github-emoji
+  unicode: false
+  localEmojis:

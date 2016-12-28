@@ -11,7 +11,7 @@
     "deploy": "hexo deploy -g"
   },
   "dependencies": {
-    "hexo": "^3.2.0",
+    "hexo": "^3.2.2",
     "hexo-cli-extras": "^1.0.4",
     "hexo-deployer-git": "^0.2.0",
     "hexo-filter-github-emojis": "^1.1.0",

@@ -2,10 +2,10 @@
 title: SSHに対するアタックへの効果的な対処方法
 date: 2016-12-23 20:35:43
 tags:
-    - セキュリティ
+    - Security
     - Linux
     - SSH
-    - サーバー運用
+    - Server
 ---
 
 # SSHに対するアタック

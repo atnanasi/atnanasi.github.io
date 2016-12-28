@@ -2,9 +2,9 @@
 title: 本を買いました
 date: 2016-12-19 21:26:02
 tags:
-    - 買い物
-    - コーディング
-    - D言語
+    - Buying
+    - Coding
+    - D language
 ---
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">バイブル <a href="https://t.co/YV3odrFXFH">pic.twitter.com/YV3odrFXFH</a></p>&mdash; Atnanasi (@atnanasi) <a href="https://twitter.com/atnanasi/status/810773868906319872">2016年12月19日</a></blockquote>
